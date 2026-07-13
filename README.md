@@ -3,6 +3,8 @@
 ## About This Project
 This Power BI dashboard analyzes domestic aviation traffic across India to identify strategic opportunities for launching new railway services. By evaluating flight routes (Origin-Destination pairs) and passenger volumes, the dashboard calculates an **Opportunity Score** to rank flight routes and show exactly where a train service alternative makes the most sense.
 
+[Link to Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZThjNjA5YWEtYzZkYS00YTVjLTg3OGQtMjY1ZjNkZWMwYWM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Key Performance Indicators (KPIs)
 * **Total Air Passengers:** 371.94M
 * **Passengers Under 500 KM:** 77.10M
